@@ -1,0 +1,38 @@
+# Certificate files (NEVER commit these!)
+*.p12
+*.pem
+*.key
+*.crt
+*.cer
+
+# Test output directories
+/tmp/
+easyroam_test_*/
+temp_ca_raw.pem
+xx*
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Compressed files
+*.tar.gz
+*.zip
+*.tar
+*.gz
