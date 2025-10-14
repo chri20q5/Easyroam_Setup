@@ -47,4 +47,4 @@ This version includes the following enhancements and fixes:
    - Handles both legacy and modern OpenSSL versions
    - Works across multiple Linux distributions
 
-Date of modifications: 2025-01-14
+Date of modifications: 14-10-2025
