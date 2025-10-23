@@ -52,7 +52,7 @@ ls /sys/class/net/*/wireless
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/chri20q5/easyroam-setup/main/easyroam_setup.sh
+wget https://raw.githubusercontent.com/chri20q5/Easyroam_Setup/main/easyroam_setup.sh
 
 # Make it executable
 chmod +x easyroam_setup.sh
@@ -282,7 +282,7 @@ Contributions are welcome! Here's how you can help:
 
 1. Enable debug mode when running the script
 2. Save the complete output
-3. [Open an issue](https://github.com/chri20q5/easyroam-setup/issues) with:
+3. [Open an issue](https://github.com/chri20q5/Easyroam_Setup/issues) with:
    - Your Linux distribution and version
    - OpenSSL version
    - NetworkManager version
@@ -341,7 +341,7 @@ This script is provided as-is for educational and convenience purposes. Always:
 
 ##  Support
 
-- **GitHub Issues**: [Report a bug or request a feature](https://github.com/chri20q5/easyroam-setup/issues)
+- **GitHub Issues**: [Report a bug or request a feature](https://github.com/chri20q5/Easyroam_Setup/issues)
 - **Original Script Issues**: [jahtz/easyroam-linux](https://github.com/jahtz/easyroam-linux/issues)
 - **easyroam Support**: Check your university's IT help desk
 
